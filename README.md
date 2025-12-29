@@ -14,22 +14,6 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 
 ---
 
-
----
-
-## 📂 Structure
-
-```
-📁 root
-    ├── index.html # Main page
-    ├── style.css # Styling and themes
-    ├── script.js # Interactivity and animations
-    ├── assets/ # Images
-    └── README.md # You are here
-```
-
----
-
 ## 🧠 Sections Included
 
 - 👨‍💻 About Me
