@@ -1,5 +1,9 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
+theme: jekyll-theme-cayman
+title: Hlaing Minn Paing
+name: Hlaing Minn Paing
+description: Cybersecurity Portfolio
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
