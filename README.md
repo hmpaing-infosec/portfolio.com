@@ -1,5 +1,3 @@
-# 🌐 Hlaing Minn Paing — Cybersecurity Portfolio
-
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
 This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **SIEM**, **GRC**, and **Cloud Security**.
