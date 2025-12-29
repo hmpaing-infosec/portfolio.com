@@ -27,22 +27,17 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 - 📝 Blog Articles
 - 📞 Contact Form
 
----
-
-## 🖥️ Hosting via GitHub Pages
-
-This site is deployed using [GitHub Pages](https://pages.github.com/), a free and reliable method for web hosting directly from your GitHub repository.
 
 ---
 
 ## 📧 Connect With Me
 
 - 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hlaing-minn-paing/)
+- 🐙 [GitHub]
+- 📝 [Medium]
+- 🛡️ [TryHackMe]
+- 🎖️ [Credly](https://www.credly.com/users/hlaing-minn-paing/badges#credly)
 
 ---
 
