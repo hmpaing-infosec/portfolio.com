@@ -1,28 +1,19 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 Hlaing Minn Paing — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
-This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, and **Cloud Security**.
+This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **SIEM**, **GRC**, and **Cloud Security**.
 
-> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 2% | Published Author
+> 🔒 Blue Team | Information Security Management
 
 ---
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://hmpaing-infosec.github.io/portfolio.com/)
 
 ---
 
-## 🛠️ Built With
-
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- **Font Awesome**
-- **Google Fonts**
-- **Responsive Design** with custom dark/light theme toggle
-- 💻 Cyberpunk-inspired UI for a hacker aesthetic
 
 ---
 
