@@ -18,16 +18,22 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 
 👨‍💻 **About Me**<br>
 - Professional summary and personal attributes as an Information Security Specialist with 12+ years of experience<br>
+
 ⚙️ **Skills**<br>
 - Expertise in GRC frameworks (ISO 27001, NIST CSF, PCI-DSS), DevSecOps, Vulnerability Management, SOC tools, and technologies (Qualys, Nessus, Burp Suite, Fortinet, Cortex XDR, etc.)<br>
+
 🏢 **Professional Experience**<br>
 - Detailed work history from IT Security Manager roles at LOMA Technology and Prudential Plc., to earlier positions at ATOM Co., TrueMoney, MOB Bank, KBZ Bank, and MMG<br>
+
 🎓 **Education**<br>
 - B.Sc. in Mathematics from Dagon University, Myanmar<br>
+
 📜 **Certifications & Licenses**<br>
 - CISM (ISACA), ISO 27001 Lead Implementer, CC (ISC²), EJPT, NSE 4, CCNA, Qualys Specialist, API Security certifications, and in-progress AZ-900/AZ-500<br>
+
 🏆 **Key Accomplishments**<br>
 - Highlights including SOC implementation (40% MTTD improvement), 100% critical vulnerability closure, DevSecOps integration (45% vulnerability reduction), and enhanced security controls across enterprises<br>
+
 📧 **Contact & References**<br>
 - Professional references, email, WhatsApp, and nationality/residence details<br>
 
