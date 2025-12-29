@@ -16,7 +16,7 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 
 ## 🧠 Sections Included
 
-- 👨‍💻 **About Me** Professional summary and personal attributes as an Information Security Specialist with 12+ years of experience<br>
+- 👨‍💻 **About Me**<br> Professional summary and personal attributes as an Information Security Specialist with 12+ years of experience<br>
 - ⚙️ **Skills** – Expertise in GRC frameworks (ISO 27001, NIST CSF, PCI-DSS), DevSecOps, Vulnerability Management, SOC tools, and technologies (Qualys, Nessus, Burp Suite, Fortinet, Cortex XDR, etc.)
 - 🏢 **Professional Experience** – Detailed work history from IT Security Manager roles at LOMA Technology and Prudential Plc., to earlier positions at ATOM Co., TrueMoney, MOB Bank, KBZ Bank, and MMG
 - 🎓 **Education** – B.Sc. in Mathematics from Dagon University, Myanmar
