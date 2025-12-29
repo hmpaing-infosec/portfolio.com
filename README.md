@@ -10,7 +10,7 @@ This website showcases my professional journey, technical skills, certifications
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://hmpaing-infosec.github.io/portfolio.com/)
+Visit the portfolio: (https://hmpaing-infosec.github.io/Cybersecurity-Portfolio/)
 
 ---
 
