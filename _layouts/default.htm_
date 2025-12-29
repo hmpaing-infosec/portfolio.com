@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ page.title | default: site.title }}</title>
+  <!-- Add other head elements -->
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <!-- Header content -->
+    </header>
+    <section>
+      {{ content }}
+    </section>
+    <!-- Remove or modify the footer section here -->
+  </div>
+</body>
+</html>
