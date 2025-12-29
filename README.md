@@ -32,7 +32,7 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 
 ## 📧 Connect With Me
 
-- 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
+- 🔗 [Linktree]
 - 💼 [LinkedIn](https://www.linkedin.com/in/hlaing-minn-paing/)
 - 🐙 [GitHub]
 - 📝 [Medium]
