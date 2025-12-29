@@ -38,7 +38,3 @@ Visit the portfolio: [https://hmpaing-infosec.github.io/portfolio.com/](https://
 - 📝 [Medium]
 - 🛡️ [TryHackMe]
 - 🎖️ [Credly](https://www.credly.com/users/hlaing-minn-paing/badges#credly)
-
----
-
-> Designed & Developed with 💙 by **Aditya Bhatt**
