@@ -4,11 +4,6 @@ This website showcases my professional journey, technical skills, certifications
 
 > 🔒 Blue Team | Information Security Management
 
----
-
-## 🚀 Live Website
-
-Visit the portfolio : (https://hmpaing-infosec.github.io/Cybersecurity-Portfolio/) #to add the projects link
 
 ---
 
